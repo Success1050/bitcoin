@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitplex-global.co	TRUE	/	FALSE	1999999999	CameFrom	deleted
+bitplex-global.co	TRUE	/	FALSE	1999999999	PHPSESSID	5oi9ru98cdac5r2ku6vn6fkoc1
+
